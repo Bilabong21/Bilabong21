@@ -1,4 +1,6 @@
-### Hi there 👋
+###Hi there👋, I'm Bongani
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bongani-maduna-21497529a) 
