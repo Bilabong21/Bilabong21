@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bongani</h1>
 <h3 align="center">A passionate tech explorer from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="[[https://za.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/](https://i.gifer.com/SUV4.gif)](https://i.gifer.com/SUV4.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/SUV4.gif">
 
 - 🔭 I’m currently working on **job matchup,emergency...**
 
