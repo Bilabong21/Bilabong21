@@ -1,4 +1,4 @@
-<img src="Untitled desing.png" alt="Untitled desing" />
+<img src="background.png" alt="Untitled desing" />
 
 <h1 align="center">Hi world👋 my name is Bongani</h1>
 <h3 align="center">A passionate tech explorer from South Africa</h3>
