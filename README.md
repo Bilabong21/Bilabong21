@@ -19,8 +19,3 @@ As a programmer with a strong desire to learn and grow, <br>I'm excited to apply
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bongani&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Bongani&icon=0&color=0)](https://visitcount.itsvg.in)
